@@ -8,12 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for SecondFramework.
 FOUNDATION_EXPORT double SecondFrameworkVersionNumber;
 
-//! Project version string for SecondFramework.
 FOUNDATION_EXPORT const unsigned char SecondFrameworkVersionString[];
 
- #import "PublicHeader.h"
+#import "PublicHeader.h"
 
 
