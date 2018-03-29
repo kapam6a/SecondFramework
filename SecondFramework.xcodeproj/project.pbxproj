@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		64867A0A206BC18800222F95 /* SecondFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 64867A08206BC18800222F95 /* SecondFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		64867A12206BC1DB00222F95 /* PublicObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 64867A10206BC1DB00222F95 /* PublicObject.h */; };
+		64867A12206BC1DB00222F95 /* PublicObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 64867A10206BC1DB00222F95 /* PublicObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		64867A13206BC1DB00222F95 /* PublicObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 64867A11206BC1DB00222F95 /* PublicObject.m */; };
 		64867A16206BC1F000222F95 /* PrivateObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 64867A14206BC1F000222F95 /* PrivateObject.h */; };
 		64867A17206BC1F000222F95 /* PrivateObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 64867A15206BC1F000222F95 /* PrivateObject.m */; };

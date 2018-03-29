@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/PublicObject.h</key>
+		<data>
+		AHfmLf88OW21BDOX4pMW4v5T0d4=
+		</data>
 		<key>Headers/SecondFramework.h</key>
 		<data>
 		53qIK7zc1KrqCnDV4ZcFey/ZhsA=
@@ -19,6 +23,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/PublicObject.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AHfmLf88OW21BDOX4pMW4v5T0d4=
+			</data>
+			<key>hash2</key>
+			<data>
+			9gNhZuRy9USh91xH7AoFkLZXyKPvVZKD/vm4PmRXf0A=
+			</data>
+		</dict>
 		<key>Headers/SecondFramework.h</key>
 		<dict>
 			<key>hash</key>
